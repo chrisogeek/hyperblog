@@ -1,0 +1,26 @@
+[33mcommit e58f2a9a61f0963bb6c220ec2c3d8ab71240d2bb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Christian Ortiz <josuechrisortiz@gmail.com>
+Date:   Fri Mar 20 19:03:55 2020 -0600
+
+    Agregamos el cargo de la persona
+    
+    La persona es Christian
+
+[1mdiff --git a/historia.txt b/historia.txt[m
+[1mindex 24b0435..f70b936 100644[m
+[1m--- a/historia.txt[m
+[1m+++ b/historia.txt[m
+[36m@@ -1,5 +1,9 @@[m
+ Esta es la historia de Christian Ortiz[m
+ [m
+[31m-Christian Oartiz tiene 30 años y nacio en el Estado de Mèxico[m
+[32m+[m[32mChristian Ortiz tiene 30 años y nacio en el Estado de Mèxico[m
+ [m
+[31m-Hoy habalremos de su historia.[m
+\ No newline at end of file[m
+[32m+[m[32mEl es alto y antes era delgado[m
+[32m+[m
+[32m+[m[32mHoy habalremos de su historia.[m
+[32m+[m
+[32m+[m[32mHoy es un Product designer[m[41m [m
+\ No newline at end of file[m
